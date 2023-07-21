@@ -1,0 +1,16 @@
+body {
+    background-image: url(Background_1.9.1.png);
+    width: 100%;
+    color: white;
+    font-family: 'Project9';
+    font-size: x-large;
+    text-align: center;
+    
+}
+@font-face {
+    font-family: 'Project9'; /*a name to be used later*/
+    src: url(Project-9.ttf); /*URL to font*/
+}
+a {
+    color: white; 
+}
